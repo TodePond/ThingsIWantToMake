@@ -2,7 +2,7 @@
 
 ## Videos
 
-🐉 Drag & Drop ⬅ ⬅ ⬅<br>
+🐉 Drag & Drop<br>
 ✨ NEW Cellular Automata<br>
 🤖 Pondbreaker Power-Ups<br>
 🐸 Build-a-Frog<br>
@@ -15,6 +15,10 @@
 🚨 Animal Agents<br>
 
 ## Cellular Automata
-🐉 DragonPond ⬅ ⬅ ⬅<br>
-🌐 SandPond 2<br>
+🟦 CellPond<br>
+🌐 SandPond (rewrite)<br>
 
+## Tools
+🌱 Habitat (improve)<br>
+🦖 Frogasaurus (improve)<br>
+🦕 Diplodocroak<br>
