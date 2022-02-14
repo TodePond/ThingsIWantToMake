@@ -10,28 +10,28 @@
 🎩 Top 99 ways to make Sand<br>
 
 ## Games
-🤖 Pondbreaker<br>
-🚨 Animal Agents<br>
+🤖 Pondbreaker - roguelike breakout<br>
+🚨 Animal Agents - qwoplike platformer<br>
 
 ## Engines
-🟦 CellPond<br>
-🌐 SandPond (rewrite)<br>
-🌀 TimePond (rewrite)<br>
-💨 ThingPond<br>
+🟦 CellPond - 2D cellular automata (rewrite)<br>
+🌐 SandPond - 3D cellular automata (rewrite)<br>
+🌀 TimePond - time-travel engine (rewrite)<br>
+💨 ThingPond - physics engine<br>
 
 ## Libraries
 🌱 Habitat (improve)<br>
-🦖 Frogasaurus (improve)<br>
-🦕 Diplodocroak<br>
+🦖 Frogasaurus - javascript bundler (improve)<br>
+🦕 Diplodocroak - html bundler<br>
 🐦 Airspace<br>
 
 ## Languages
-🌈 ColourTode<br>
-🐉 DragonTode<br>
-👑 MotherTode (improve)<br>
-⛅ DreamTode<br>
-🐸 Tode<br>
+🌈 ColourTode - spatial language<br>
+🐉 DragonTode - visual language<br>
+👑 MotherTode - language language (improve)<br>
+⛅ DreamTode - low-level language<br>
+🐸 Tode - fake real language (improve)<br>
 
 ## Tools
-💧 Lilypad (text editor)<br>
-🌳 Woodpad (collaborative whiteboard)<br>
+💧 Lilypad - text editor<br>
+🌳 Woodpad - whiteboard<br>
