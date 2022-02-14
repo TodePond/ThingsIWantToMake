@@ -20,10 +20,10 @@
 💨 ThingPond - physics engine<br>
 
 ## Libraries
-🌱 Habitat (improve)<br>
+🌱 Habitat - helpful functions (improve)<br>
 🦖 Frogasaurus - javascript bundler (improve)<br>
 🦕 Diplodocroak - html bundler<br>
-🐦 Airspace<br>
+🐦 Airspace - unhelpful functions<br>
 
 ## Languages
 🌈 ColourTode - spatial language<br>
