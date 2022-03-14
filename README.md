@@ -1,14 +1,15 @@
 # Things I Want To Make (in 2022)
 
 ## Videos
-**🐉 Drag & Drop<br>
-✨ NEW Cellular Automata<br>
-📺 Screens in Screens in Screens<br>
-🤖 Pondbreaker Power-Ups<br>
-🐸 Build-a-Frog<br>
-⭐ Pond of Fame<br>
-🌐 Tourism 3D<br>
-🎩 Top 99 ways to make Sand<br>**
+
+**🐉 Drag & Drop** ← _currently making this_<br>
+**✨ NEW Cellular Automata** ← _currently making this_<br>
+**📺 Screens in Screens in Screens**<br>
+**🤖 Pondbreaker Power-Ups**<br>
+**🐸 Build-a-Frog**<br>
+**⭐ Pond of Fame**<br>
+**🌐 Tourism 3D**<br>
+**🎩 Top 99 ways to make Sand**<br>
 
 ## Games
 🤖 **Pondbreaker** - roguelike breakout<br>
@@ -22,16 +23,16 @@
 
 ## Libraries
 🌱 **Habitat** - helpful functions (improve)<br>
+🐦 **Airspace** - unhelpful functions<br>
 🦖 **Frogasaurus** - javascript bundler (improve)<br>
 🦕 **Diplodocroak** - html bundler<br>
-🐦 **Airspace** - unhelpful functions<br>
 
 ## Languages
-🌈 **ColourTode** - spatial language<br>
-🐉 **DragonTode** - visual language<br>
+🌈 **ColourTode** - spatial language ← _currently making this_<br>
+🐉 **DragonTode** - visual language ← _currently making this_<br>
 👑 **MotherTode** - language language (improve)<br>
 ⛅ **DreamTode** - low-level language<br>
-🐸 **Tode** - fake real language (improve)<br>
+🐸 **TodeTode** - fake real language (improve)<br>
 
 ## Tools
 💧 **Lilypad** - text editor<br>
