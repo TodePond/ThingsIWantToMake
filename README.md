@@ -16,7 +16,7 @@
 🚨 **Animal Agents** - qwoplike platformer<br>
 
 ## Engines
-🟦 **CellPond** - 2D cellular automata (rewrite)<br>
+🟦 **CellPond** - 2D cellular automata (rewrite) ← _currently making this_<br>
 🌐 **SandPond** - 3D cellular automata (rewrite)<br>
 🌀 **TimePond** - time-travel engine (rewrite)<br>
 💨 **ThingPond** - physics engine<br>
