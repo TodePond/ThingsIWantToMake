@@ -32,7 +32,7 @@
 🐉 **DragonTode** - visual language ← _currently making this_<br>
 👑 **MotherTode** - language language (improve)<br>
 ⛅ **DreamTode** - low-level language<br>
-🐸 **TodeTode** - fake real language (improve)<br>
+🐸 **TodeTode** - fake real language (improve) ← _currently making this_<br>
 
 ## Tools
 💧 **Lilypad** - text editor<br>
