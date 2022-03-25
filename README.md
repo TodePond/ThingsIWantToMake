@@ -2,10 +2,10 @@
 
 ## Videos
 
-**🐉 Drag & Drop** ← _currently making this_<br>
+**🤖 Nothing** ← _currently making this_<br>
 **✨ NEW Cellular Automata** ← _currently making this_<br>
 **📺 Screens in Screens in Screens** ← _currently making this_<br>
-**🤖 Pondbreaker Power-Ups**<br>
+**⚡ Pondbreaker Power-Ups**<br>
 **🐸 Build-a-Frog**<br>
 **⭐ Pond of Fame**<br>
 **🌐 Tourism 3D**<br>
