@@ -4,7 +4,7 @@
 
 **🐉 Drag & Drop** ← _currently making this_<br>
 **✨ NEW Cellular Automata** ← _currently making this_<br>
-**📺 Screens in Screens in Screens**<br>
+**📺 Screens in Screens in Screens** ← _currently making this_<br>
 **🤖 Pondbreaker Power-Ups**<br>
 **🐸 Build-a-Frog**<br>
 **⭐ Pond of Fame**<br>
@@ -20,6 +20,9 @@
 🌐 **SandPond** - 3D cellular automata (rewrite)<br>
 🌀 **TimePond** - time-travel engine (rewrite)<br>
 💨 **ThingPond** - physics engine<br>
+🖥️ **ScreenPond** - infinity mirror engine ← _currently making this_<br>
+🔄 **ArrowPond** - arrows cellular automata<br>
+💬 **WordPond** - ancient tode language toy<br>
 
 ## Libraries
 🌱 **Habitat** - helpful functions (improve)<br>
