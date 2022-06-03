@@ -1,12 +1,21 @@
 # Things I Want To Make (in 2022)
 
+✅ = DONE<br>
+*️⃣ = CURRENTLY MAKING THIS
+
 ## Videos
 
-**🤖 Nothing** ← _currently making this_<br>
-**✨ NEW Cellular Automata** ← _currently making this_<br>
-**📺 Screens in Screens in Screens** ← _currently making this_<br>
-**⚡ Pondbreaker Power-Ups**<br>
-**🐸 Build-a-Frog**<br>
+**🤖 Nothing** ✅<br>
+**✨ NEW Cellular Automata** ✅<br>
+**📺 Screens in Screens in Screens** *️⃣<br>
+**💡 Free Will**<br>
+**🎵 Arrows in Arrows in Arrows** - Arrows<br>
+**⚡ Pondbreaker**<br>
+**🐿️ Tode**<br>
+**🔮 Spellular Automata**<br>
+**⏰ Update Update**<br>
+**📕 Define Define**<br>
+**🐦 PERFECT Programming Language**<br>
 **⭐ Pond of Fame**<br>
 **🌐 Tourism 3D**<br>
 **🎩 Top 99 ways to make Sand**<br>
@@ -16,11 +25,11 @@
 🚨 **Animal Agents** - qwoplike platformer<br>
 
 ## Engines
-🟦 **CellPond** - 2D cellular automata (rewrite) ← _currently making this_<br>
+🟦 **CellPond** - 2D cellular automata ✅<br>
 🌐 **SandPond** - 3D cellular automata (rewrite)<br>
-🌀 **TimePond** - time-travel engine (rewrite)<br>
+🌀 **TimePond** - time-travel engine (improve) (then rewrite)<br>
 💨 **ThingPond** - physics engine<br>
-🖥️ **ScreenPond** - infinity mirror engine ← _currently making this_<br>
+🖥️ **ScreenPond** - infinity mirror engine *️⃣<br>
 🔄 **ArrowPond** - arrows cellular automata<br>
 💬 **WordPond** - ancient tode language toy<br>
 
@@ -31,11 +40,11 @@
 🦕 **Diplodocroak** - html bundler<br>
 
 ## Languages
-🌈 **ColourTode** - spatial language ← _currently making this_<br>
-🐉 **DragonTode** - visual language ← _currently making this_<br>
+🌈 **ColourTode** - spatial language <br>
 👑 **MotherTode** - language language (improve)<br>
 ⛅ **DreamTode** - low-level language<br>
-🐸 **TodeTode** - fake real language (improve) ← _currently making this_<br>
+🐸 **TodeTode** - fake-real language (improve)<br>
+🐦 **DreamBerd** - perfect language<br>
 
 ## Tools
 💧 **Lilypad** - text editor<br>
