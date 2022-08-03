@@ -47,7 +47,7 @@
 🌈 **ColourTode** - spatial language <br>
 👑 **MotherTode** - language language (improve)<br>
 ⛅ **DreamTode** - low-level language<br>
-🐸 **TodeTode** - fake-real language (improve)<br>
+🐸 **TodeTode** - fake-real language (improve) ✅<br>
 🐦 **DreamBerd** - perfect language<br>
 
 ## Tools
