@@ -22,7 +22,7 @@
 **🐌 Top 9 ways to make FAST Sand**<br>
 **🔨 Tools**<br>
 **🔵 Shapes**<br>
-**🌈 NEW Cellular Automata**<br>
+**🌈 NEW NEW Cellular Automata**<br>
 
 ## Games
 🤖 **Pondbreaker** - roguelike breakout<br>
@@ -30,7 +30,7 @@
 
 ## Engines
 🟦 **CellPond** - 2D cellular automata ✅<br>
-🖥️ **ScreenPond** - infinity mirror engine *️✅<br>
+🖥️ **ScreenPond** - infinity mirror engine ✅<br>
 🔄 **ArrowPond** - arrows cellular automata<br>
 🌀 **TimePond** - time-travel engine (improve) (then rewrite)<br>
 🌐 **SandPond** - 3D cellular automata (rewrite)<br>
@@ -55,4 +55,4 @@
 🌳 **Woodpad** - whiteboard<br>
 
 ## Other
-⛲ **Pool**<br>
+⛲ **TodeZone**<br>
