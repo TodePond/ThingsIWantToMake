@@ -31,6 +31,7 @@
 ## Engines
 🟦 **CellPond** - 2D cellular automata ✅ *️⃣<br>
 🖥️ **ScreenPond** - infinity mirror engine ✅<br>
+🎨 **PaintPond** - wobbly whiteboard *️⃣<br>
 🔄 **ArrowPond** - arrows cellular automata<br>
 🌀 **TimePond** - time-travel engine (improve) (then rewrite)<br>
 🌐 **SandPond** - 3D cellular automata (rewrite)<br>
@@ -53,7 +54,7 @@
 
 ## Tools
 💧 **Lilypad** - text editor<br>
-🌳 **Woodpad** - whiteboard<br>
+~~🌳 **Woodpad** - whiteboard~~ (replaced by PaintPond)<br>
 
 ## Other
 ⛲ **TodeZone**<br>
