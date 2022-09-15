@@ -1,7 +1,7 @@
 # Things I Want To Make (2022 edition)
 
-✅ = DONE<br>
-*️⃣ = CURRENTLY MAKING THIS
+✅ = **DONE**<br>
+*️⃣ = **CURRENTLY MAKING THIS**
 
 ## Videos
 
