@@ -24,10 +24,10 @@
 **🔵 Shapes**<br>
 **🐢 Top 3 ways to make FAST code**<br>
 
-## Series
+## Storylines
 **🐸 Missing Tode Trilogy** ✅<br>
-**🤖 Missing Bot Trilogy**<br>
-**🦟 Missing Fly Trilogy**<br>
+**🤖 Missing Bot**<br>
+**🦟 Missing Fly**<br>
 
 ## Games
 🤖 **Pondbreaker** - roguelike breakout<br>
