@@ -4,7 +4,6 @@
 *️⃣ **= CURRENTLY MAKING THIS**
 
 ## Videos
-
 **🤖 Nothing** ✅<br>
 **✨ NEW Cellular Automata** ✅<br>
 **📺 Screens in Screens in Screens** ✅<br>
@@ -23,6 +22,12 @@
 **🐌 Top 9 ways to make FAST Sand**<br>
 **🔨 Tools**<br>
 **🔵 Shapes**<br>
+**🐢 Top 3 ways to make FAST code**<br>
+
+## Series
+**🐸 Missing Tode Trilogy** ✅<br>
+**🤖 Missing Bot Trilogy**<br>
+**🦟 Missing Fly Trilogy**<br>
 
 ## Games
 🤖 **Pondbreaker** - roguelike breakout<br>
