@@ -7,8 +7,8 @@
 **🤖 Nothing** ✅<br>
 **✨ NEW Cellular Automata** ✅<br>
 **📺 Screens in Screens in Screens** ✅<br>
-**🔮 Spellular Automata** *️⃣<br>
-**📕 Define Define**<br>
+**🔮 Spellular Automata** ✅<br>
+**📕 Define Define** *️⃣<br>
 **🌈 NEW NEW Cellular Automata**<br>
 **🏆 Top 99 ways to make Sand**<br>
 **🎵 Arrows in Arrows in Arrows**<br>
@@ -27,14 +27,14 @@
 ## Storylines
 **🐸 Missing Tode Trilogy** ✅<br>
 **🤖 Missing Bot**<br>
-**🦟 Missing Fly**<br>
+**💤 Sleeping Tode** *️⃣<br>
 
 ## Games
 🤖 **Pondbreaker** - roguelike breakout<br>
 🚨 **Animal Agents** - qwoplike platformer<br>
 
 ## Engines
-🟦 **CellPond** - 2D cellular automata ✅ *️⃣<br>
+🟦 **CellPond** - 2D cellular automata ✅ ✅<br>
 🖥️ **ScreenPond** - infinity mirror engine ✅<br>
 🎨 **PaintPond** - wobbly whiteboard *️⃣<br>
 🔄 **ArrowPond** - arrows cellular automata<br>
@@ -54,7 +54,7 @@
 👑 **MotherTode** - language language (improve) *️⃣<br>
 ⛅ **DreamTode** - low-level language<br>
 ⚡ **HyperTode** - jsx-like language<br>
-🐸 **TodeTode** - fake-real language (improve) ✅ *️⃣<br>
+🐸 **TodeTode** - fake-real language (improve) ✅ ✅<br>
 🐦 **DreamBerd** - perfect language<br>
 
 ## Tools
