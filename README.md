@@ -7,22 +7,22 @@
 **🤖 Nothing** ✅<br>
 **✨ NEW Cellular Automata** ✅<br>
 **📺 Screens in Screens in Screens** ✅<br>
-**🔮 Spellular Automata** ✅<br>
+**⚡ Spellular Automata** ✅<br>
 **📕 Define Define** *️⃣<br>
-**🌈 NEW NEW Cellular Automata**<br>
-**🏆 Top 99 ways to make Sand**<br>
 **🎵 Arrows in Arrows in Arrows**<br>
 **💡 Free Will**<br>
+**🌈 NEW NEW Cellular Automata**<br>
+**🏆 Top 99 ways to make Sand**<br>
 **🐿️ Tode**<br>
 **⚡ Pondbreaker**<br>
 **⏰ Update Update**<br>
 **🐦 PERFECT Programming Language**<br>
 **⭐ Pond of Fame**<br>
 **🚀 Tourism 3D**<br>
-**🐌 Top 9 ways to make FAST Sand**<br>
+**🐌 Fastest Sand in the World**<br>
 **🔨 Tools**<br>
-**🔵 Shapes**<br>
-**🐢 Top 3 ways to make FAST code**<br>
+**🔵 All The Shapes**<br>
+**🐢 Only Three Ways**<br>
 
 ## Storylines
 **🐸 Missing Tode Trilogy** ✅<br>
