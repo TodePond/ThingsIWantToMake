@@ -37,7 +37,7 @@
 🟦 **CellPond** - 2D cellular automata ✅ ✅<br>
 🖥️ **ScreenPond** - infinity mirror engine ✅<br>
 🎨 **PaintPond** - wobbly whiteboard ✅<br>
-🔄 **ArrowPond** - arrows cellular automata<br>
+🔄 **ArrowPond** - arrows cellular automata *️⃣<br>
 🌀 **TimePond** - time-travel engine (improve) (then rewrite)<br>
 🌐 **SandPond** - 3D cellular automata (rewrite)<br>
 💨 **ThingPond** - physics engine<br>
