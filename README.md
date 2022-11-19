@@ -61,7 +61,7 @@
 
 ## Tools
 💧 **Lilypad** - text editor<br>
-~~🌳 **Woodpad** - whiteboard~~ (replaced by PaintPond)<br>
+🌳 ~~**Woodpad** - whiteboard~~ (replaced by PaintPond)<br>
 
 ## Other
 ⛲ **CheepFest**<br>
