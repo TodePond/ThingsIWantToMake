@@ -9,7 +9,7 @@
 **📺 Screens in Screens in Screens** ✅<br>
 **⚡ Spellular Automata** ✅<br>
 **📕 Define Define** *️⃣<br>
-**🎵 Arrows in Arrows in Arrows**<br>
+**🎵 Arrows in Arrows in Arrows** *️⃣<br>
 **💡 Free Will**<br>
 **🌈 NEW NEW Cellular Automata**<br>
 **🏆 Top 99 ways to make Sand**<br>
@@ -26,7 +26,7 @@
 
 ## Storylines
 **🐸 Missing Tode Trilogy** ✅<br>
-**🤖 Missing Bot**<br>
+**🤖 Missing Bot** *️⃣<br>
 **💤 Sleeping Tode** *️⃣<br>
 
 ## Games
@@ -37,24 +37,26 @@
 🟦 **CellPond** - 2D cellular automata ✅ ✅<br>
 🖥️ **ScreenPond** - infinity mirror engine ✅<br>
 🎨 **PaintPond** - wobbly whiteboard ✅<br>
+🐟 **FishLab** - intelligent life engine *️⃣<br>
+🔬 **LabLab** - fractal engine *️⃣<br>
 🔄 **ArrowPond** - arrows cellular automata *️⃣<br>
-🌀 **TimePond** - time-travel engine (improve) (then rewrite)<br>
-🌐 **SandPond** - 3D cellular automata (rewrite)<br>
+🌀 **TimePond** v1.5, v2.0 - time-travel engine<br>
+🌐 **SandPond** v2.0 - 3D cellular automata<br>
 💨 **ThingPond** - physics engine<br>
 💬 **WordPond** - ancient tode language toy<br>
 
 ## Libraries
-🌱 **Habitat** - helpful functions (improve) ✅ *️⃣<br>
+🌱 **Habitat** v1.0 - helpful functions ✅ ✅<br>
 🐦 **Airspace** - unhelpful functions<br>
-🦖 **Frogasaurus** - javascript bundler (improve) ✅<br>
+🦖 **Frogasaurus** v0.1  - javascript bundler ✅<br>
 🦕 **Diplodocroak** - html bundler<br>
 
 ## Languages
 🌈 **ColourTode** - spatial language <br>
-👑 **MotherTode** - language language (improve) *️⃣<br>
+👑 **MotherTode** v2.0 - language language *️⃣<br>
 ⛅ **DreamTode** - low-level language<br>
 ⚡ **HyperTode** - jsx-like language *️⃣<br>
-🐸 **TodeTode** - fake-real language (improve) ✅ ✅<br>
+🐸 **TodeTode** v1.0 - fake-real language ✅ ✅<br>
 🐦 **DreamBerd** - perfect language<br>
 
 ## Tools
@@ -62,4 +64,4 @@
 ~~🌳 **Woodpad** - whiteboard~~ (replaced by PaintPond)<br>
 
 ## Other
-⛲ **TodeZone**<br>
+⛲ **CheepFest**<br>
