@@ -26,8 +26,8 @@
 
 ## Storylines
 **🐸 Missing Tode Trilogy** ✅<br>
-**🤖 Missing Bot** *️⃣<br>
-**💤 Sleeping Tode** *️⃣<br>
+**💤 Sleeping Tode Trilogy** *️⃣<br>
+**🤖 Missing Bot Trilogy**<br>
 
 ## Games
 🤖 **Pondbreaker** - roguelike breakout<br>
@@ -57,7 +57,7 @@
 ⛅ **DreamTode** - low-level language<br>
 ⚡ **HyperTode** - jsx-like language *️⃣<br>
 🐸 **TodeTode** v1.0 - fake-real language ✅ ✅<br>
-🐦 **DreamBerd** - perfect language<br>
+🐦 **DreamBerd** - perfect language ✅<br>
 
 ## Tools
 💧 **Lilypad** - text editor<br>
