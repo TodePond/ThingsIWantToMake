@@ -48,7 +48,7 @@
 🔎 **SandLab** - edge cellular automata *️⃣<br>
 🐟 **FishLab** - intelligent life engine *️⃣<br>
 🐍 **SnakeLab** - fractal engine *️⃣<br>
-🔄 **ArrowRoost** - arrows cellular automata *️⃣<br>
+🔄 **ArrowRoost** - arrow cellular automata *️⃣<br>
 💨 **ThingPond** - physics engine<br>
 💬 **WordPond** - ancient tode language toy<br>
 
