@@ -1,8 +1,9 @@
 # Things I Want To Make (2023 edition)
 
-✅ **= DONE**<br>
-*️⃣ **= CURRENTLY WORKING ON THIS**<br>
 🏆 **= DONE IN A PREVIOUS YEAR**<br>
+✅ **= DONE THIS YEAR**<br>
+*️⃣ **= NOW WORKING ON THIS**<br>
+🔄 **= NOW DOING ONGOING WORK ON THIS**<br>
 
 ## Videos
 **🤖 Nothing** 🏆<br>
@@ -10,7 +11,7 @@
 **📺 Screens in Screens in Screens** 🏆<br>
 **⚡ Spellular Automata** 🏆<br>
 
-**📕 Define Define** *️⃣<br>
+**🐟 Undefined** *️⃣<br>
 **🎵 Arrows in Arrows in Arrows** *️⃣<br>
 **🏆 Top 99 ways to make Sand**<br>
 
