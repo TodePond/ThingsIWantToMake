@@ -6,6 +6,8 @@
 🔄 **= NOW DOING ONGOING WORK ON THIS**<br>
 
 ## Videos
+**🧳 Tourism** 🏆<br>
+**🐸 Alphabet** 🏆<br>
 **💧 Top 9 ways to make Water** 🏆<br>
 **🚨 Crime** 🏆<br>
 **🦕 Top 9 ways to make Big Sand** 🏆<br>
