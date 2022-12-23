@@ -62,7 +62,7 @@
 ## Languages
 💫 **SpaceTode** - spatial language 🏆<br>
 👑 **MotherTode** - language language 🏆<br>
-🐸 **TodeTode** - fake-real language 🏆<br>
+🐸 **TodeTode** - real language 🏆<br>
 🐦 **DreamBerd** - perfect language 🏆<br>
 🌈 **ColourTode** - spatial language<br>
 ⛅ **DreamTode** - low-level language<br>
