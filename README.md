@@ -1,7 +1,7 @@
 # Things I Want To Make (2023 edition)
 
 ✅ **= DONE**<br>
-*️⃣ **= CURRENTLY WORKING ON THIS**
+*️⃣ **= CURRENTLY WORKING ON THIS**<br>
 🏆 **= DONE IN A PREVIOUS YEAR**<br>
 
 ## Videos
@@ -63,10 +63,10 @@
 👑 **MotherTode** - language language 🏆<br>
 🐸 **TodeTode** - fake-real language 🏆<br>
 🐦 **DreamBerd** - perfect language 🏆<br>
-🌈 **ColourTode** - spatial language <br>
+🌈 **ColourTode** - spatial language<br>
 ⛅ **DreamTode** - low-level language<br>
-⚡ **HyperTode** - jsx-like language *️⃣<br>
-👑 **MotherTode 2.0** - language language *️⃣<br>
+⚡ **HyperTode** - jsx-like language<br>
+👑 **MotherTode 2.0** - language language<br>
 
 ## Tools
 💧 **Lilypad** - text editor<br>
