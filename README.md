@@ -95,7 +95,7 @@
 🐟 **Undefined** *️⃣
 
 ## Assets
-✏️ **TodeSans** - font
+✏️ **TodeSans** - font<br>
 ✏️ **TodeMono** - font
 
 ## Series
