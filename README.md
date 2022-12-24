@@ -20,9 +20,11 @@
 **🦠 Cells in Cells in Cells** 🏆<br>
 **⛰️ SandPond Saga** 🏆<br>
 **🚩 Tourism 2: Off-Road** 🏆<br>
+
 **🤖 Nothing** 🏆<br>
 **✨ NEW Cellular Automata** 🏆<br>
 **📺 Screens in Screens in Screens** 🏆<br>
+
 **⚡ Spellular Automata** 🏆<br>
 
 **🐟 Define Define** *️⃣<br>
@@ -61,9 +63,10 @@
 🔄 **ArrowRoost** - arrow cellular automata *️⃣<br>
 💨 **ThingPond** - physics engine<br>
 💬 **WordPond** - ancient tode language toy<br>
+🐸 **TodePond** - homepage<br>
 
 ## Libraries
-🌱 **Habitat** - helpful functions 🏆<br>
+🌱 **Habitat** - helpful functions 🔄<br>
 🐦 **Airspace** - unhelpful functions<br>
 🦖 **Frogasaurus** - javascript bundler 🏆<br>
 🦕 **Diplodocroak** - html bundler<br>
@@ -80,13 +83,29 @@
 
 ## Tools
 💧 **Lilypad** - text editor<br>
-⛲ **TodeParty**<br>
+⛲ **TodeParty** - social media client<br>
 
 ## Games
-🐦 **BurdLab** - burd-catching game<br>
+🐦 **BurdLab** - burd-catching game *️⃣<br>
 🤖 **Pondbreaker** - roguelike breakout<br>
 🚨 **Animal Agents** - qwoplike platformer<br>
 
 ## Songs
-📺 **Screens in Screens** ✅<br>
+📺 **Screens in Screens** 🏆<br>
 🐟 **Undefined** *️⃣
+
+## Assets
+✏️ **TodeSans** - font
+✏️ **TodeMono** - font
+
+## Series
+⏳ **SandPond Saga** - monthly\* video 🔄<br>
+🗞️ **TodePond Times** - weekly update 🔄<br>
+🎤 **Pondcast**<br>
+
+## Communities
+🌱 **Lilypad** - discord server 🔄<br>
+
+## Talks
+🚀 **Spatial Programming** 🏆<br>
+🚀 **Spatial Programming Pipedream** *️⃣
