@@ -101,7 +101,7 @@
 ## Series
 ⏳ **SandPond Saga** - monthly\* video 🔄<br>
 🗞️ **TodePond Times** - weekly update 🔄<br>
-🎤 **Pondcast**<br>
+🎤 **TodePondcast**<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
