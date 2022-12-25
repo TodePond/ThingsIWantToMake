@@ -1,7 +1,7 @@
 # Things I Want To Make (2023 edition)
 
-✅ **= DONE (this year)**<br>
 🏆 **= DONE (previous years)**<br>
+✅ **= DONE (this year)**<br>
 *️⃣ **= CURRENTLY MAKING THIS**<br>
 🔄 **= CURRENTLY MAKING THIS (ongoing)**<br>
 
