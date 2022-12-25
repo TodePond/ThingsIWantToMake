@@ -1,9 +1,9 @@
 # Things I Want To Make (2023 edition)
 
-🏆 **= DONE IN A PREVIOUS YEAR**<br>
-✅ **= DONE THIS YEAR**<br>
-*️⃣ **= NOW WORKING ON THIS**<br>
-🔄 **= NOW DOING ONGOING WORK ON THIS**<br>
+✅ **= DONE (this year)**<br>
+🏆 **= DONE (previous years)**<br>
+*️⃣ **= CURRENTLY MAKING THIS**<br>
+🔄 **= CURRENTLY MAKING THIS (ongoing)**<br>
 
 ## Videos
 **🏅 Top 9 ways to make Sand** 🏆<br>
@@ -83,10 +83,10 @@
 
 ## Tools
 💧 **Lilypad** - text editor<br>
-⛲ **TodeParty** - social media client<br>
+⛲ **BerdZone** - social media client<br>
 
 ## Games
-🐦 **BurdLab** - burd-catching game *️⃣<br>
+🐦 **BerdLab** - berd-catching game *️⃣<br>
 🤖 **Pondbreaker** - roguelike breakout<br>
 🚨 **Animal Agents** - qwoplike platformer<br>
 
