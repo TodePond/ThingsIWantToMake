@@ -83,7 +83,7 @@
 
 ## Tools
 💧 **Lilypad** - text editor<br>
-⛲ **BerdZone** - social media client<br>
+⛲ **BerdZone**<br>
 
 ## Games
 🐦 **BerdLab** - berd-catching game *️⃣<br>
