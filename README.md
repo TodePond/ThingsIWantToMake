@@ -81,11 +81,12 @@
 👑 **MotherTode 2.0** - language language<br>
 
 ## Tools
+🐶 **Doonaverse** *️⃣<br>
 💧 **Lilypad** - text editor<br>
 ⛲ **BerdZone**<br>
 
 ## Games
-🐦 **BerdLab** - berd-catching game *️⃣<br>
+🐦 **BerdLab** - berd-catching game ✅<br>
 🤖 **Pondbreaker** - roguelike breakout<br>
 🚨 **Animal Agents** - qwoplike platformer<br>
 
