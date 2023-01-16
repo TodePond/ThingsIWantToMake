@@ -20,13 +20,10 @@
 **🦠 Cells in Cells in Cells** 🏆<br>
 **⛰️ SandPond Saga** 🏆<br>
 **🚩 Tourism 2: Off-Road** 🏆<br>
-
 **🤖 Nothing** 🏆<br>
 **✨ NEW Cellular Automata** 🏆<br>
 **📺 Screens in Screens in Screens** 🏆<br>
-
 **⚡ Spellular Automata** 🏆<br>
-
 **🐟 Define Define** *️⃣<br>
 **🎵 Arrows in Arrows in Arrows** *️⃣<br>
 **🏆 Top 99 ways to make Sand**<br>
@@ -45,6 +42,8 @@
 **🐢 Only Three Ways**<br>
 **🐍 Snakes in Snakes in Snakes**<br>
 **⚔️ The Dragon Book**<br>
+**⚒️ Tools**<br>
+**👁️ Todes in Todes in Todes**<br>
 
 ## Storylines
 **🐸 Missing Tode Trilogy** 🏆<br>
