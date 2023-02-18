@@ -101,11 +101,12 @@
 ## Series
 ⏳ **SandPond Saga** - monthly\* video 🔄<br>
 🗞️ **TodePond Times** - weekly update 🔄<br>
-🎤 **TodePondcast**<br>
+📜 **Ribbit Report** - video retro *️⃣<br>
+📢 **Pondcast**<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
 
 ## Talks
 🚀 **Spatial Programming** 🏆<br>
-🚀 **Spatial Programming Pipedream** *️⃣
+🚀 **Spatial Programming Pipedream** ✅
