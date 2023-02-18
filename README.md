@@ -24,7 +24,7 @@
 **✨ NEW Cellular Automata** 🏆<br>
 **📺 Screens in Screens in Screens** 🏆<br>
 **⚡ Spellular Automata** 🏆<br>
-**🐟 Define Define** ✅<br>
+**☁️ Define Define** ✅<br>
 **🎵 Arrows in Arrows in Arrows** *️⃣<br>
 **🏆 Top 99 ways to make Sand *️⃣**<br>
 
@@ -37,13 +37,15 @@
 **⭐ Pond of Fame**<br>
 **🚀 Tourism 3D**<br>
 **🐌 Fastest Sand in the World**<br>
-**🔨 Tools**<br>
 **🔵 All The Shapes**<br>
 **🐢 Only Three Ways**<br>
 **🐍 Snakes in Snakes in Snakes**<br>
 **⚔️ The Dragon Book**<br>
 **⚒️ Tools**<br>
 **👁️ Todes in Todes in Todes**<br>
+**💥 AI Apocalypse**<br>
+**🐟 Fish in Fish in Fish**<br>
+**🌈 NEW Fractal**<br>
 
 ## Storylines
 **🐸 Missing Tode Trilogy** 🏆<br>
