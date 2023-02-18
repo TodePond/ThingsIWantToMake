@@ -26,7 +26,7 @@
 **⚡ Spellular Automata** 🏆<br>
 **☁️ Define Define** ✅<br>
 **🎵 Arrows in Arrows in Arrows** *️⃣<br>
-**🏆 Top 99 ways to make Sand *️⃣**<br>
+**🏆 Top 99 ways to make Sand** *️⃣<br>
 
 **💡 Free Will**<br>
 **🌈 NEW NEW Cellular Automata**<br>
