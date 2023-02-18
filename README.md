@@ -84,7 +84,7 @@
 👑 **MotherTode 2.0** - language language<br>
 
 ## Tools
-🐶 **Pondiverse** *️⃣<br>
+🪐 **Pondiverse** *️⃣<br>
 💧 **Lilypad** - text editor<br>
 ⛲ **BerdZone**<br>
 
