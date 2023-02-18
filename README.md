@@ -111,5 +111,7 @@
 🌱 **Lilypad** - discord server 🔄<br>
 
 ## Talks
-🚀 **Spatial Programming** 🏆<br>
-🚀 **Spatial Programming Pipedream** ✅
+🚀 **The Spatial Programming Pipedream** 🏆<br>
+🚀 **The Spatial Programming Pipedream** ✅<br>
+🚀 **The Spatial Programming Pipedream**<br>
+🎵 **Creative Freedom**
