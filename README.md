@@ -111,6 +111,13 @@
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
 
+## Posts
+📜 **Ribbit Report** *️⃣<br>
+☁️ **Definitions That Don't Matter** *️⃣<br>
+🚀 **The Spatial Programming Pipedream**<br>
+🎵 **Creating Creativity**<br>
+🌀 **It's Time**<br>
+
 ## Talks
 🚀 **The Spatial Programming Pipedream** 🏆<br>
 🚀 **The Spatial Programming Pipedream** ✅<br>
