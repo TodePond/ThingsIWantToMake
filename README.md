@@ -62,27 +62,27 @@
 🐟 **FishLab** - intelligent life engine ✅<br>
 🔎 **LabLab** - fractal engine ✅<br>
 🔄 **ArrowRoost** - arrow cellular automata *️⃣<br>
-💨 **ThingPond** - physics engine<br>
+💨 **ThingPond** - physics engine *️⃣<br>
 💬 **WordPond** - ancient tode language toy<br>
 🐸 **TodePond** - homepage<br>
 
 ## Libraries
-🌱 **Habitat** - helpful functions 🔄<br>
+🌱 **Habitat** - helpful functions ✅🔄<br>
 🐦 **Airspace** - unhelpful functions<br>
 🦖 **Frogasaurus** - javascript bundler 🏆<br>
 🦕 **Diplodocroak** - html bundler<br>
-🍃 **PondPad** - project template *️⃣<br>
+🍃 **PondPad** - project template ✅*️⃣<br>
 
 ## Languages
 💫 **SpaceTode** - spatial language 🏆<br>
 👑 **MotherTode** - language language 🏆<br>
 🐸 **TodeTode** - real language 🏆<br>
-🪵 **TreeTode** - lisp-like language🏆<br>
+🪵 **TreeTode** - lisp-like language 🏆<br>
 🐦 **DreamBerd** - perfect language 🏆<br>
 🌈 **ColourTode** - spatial language<br>
 ⛅ **DreamTode** - low-level language<br>
 ⚡ **HyperTode** - jsx-like language<br>
-👑 **MotherTode 2.0** - language language<br>
+👑 **MotherTode 2.0** - language language *️⃣<br>
 
 ## Tools
 🪐 **Pondiverse** *️⃣<br>
@@ -119,7 +119,7 @@
 🌀 **It's Time**<br>
 
 ## Talks
-🚀 **The Spatial Programming Pipedream** 🏆<br>
-🚀 **The Spatial Programming Pipedream** ✅<br>
-🚀 **The Spatial Programming Pipedream**<br>
-🎵 **Creating Creativity**<br>
+🚀 **The Spatial Programming Pipedream** - Future of Coding 🏆<br>
+🚀 **The Spatial Programming Pipedream** - LDN Creative Coding ✅<br>
+🚀 **The Spatial Programming Pipedream** - Strange Loop *️⃣<br>
+🎵 **Creating Creativity** - Strange Loop *️⃣<br>
