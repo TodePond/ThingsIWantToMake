@@ -5,6 +5,8 @@
 *️⃣ **= CURRENTLY MAKING THIS**<br>
 🔄 **= CURRENTLY MAKING THIS (ongoing)**<br>
 
+❌ **= CANCELLED**<br>
+
 ## Videos
 **🏅 Top 9 ways to make Sand** 🏆<br>
 **🐰 Rabbits** 🏆<br>
@@ -112,7 +114,7 @@
 🌱 **Lilypad** - discord server 🔄<br>
 
 ## Posts
-📜 **Ribbit Report** *️⃣<br>
+📜 **Ribbit Report** ❌<br>
 ☁️ **Definitions That Don't Matter** *️⃣<br>
 🚀 **The Spatial Programming Pipedream**<br>
 🎵 **Creating Creativity**<br>
