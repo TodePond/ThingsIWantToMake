@@ -4,7 +4,6 @@
 ✅ **= DONE (this year)**<br>
 *️⃣ **= CURRENTLY MAKING THIS**<br>
 🔄 **= CURRENTLY MAKING THIS (ongoing)**<br>
-
 ❌ **= CANCELLED**<br>
 
 ## Videos
@@ -35,8 +34,8 @@
 **🐿️ Tode**<br>
 **⚡ Pondbreaker**<br>
 **⏰ Update Update**<br>
-**🐦 PERFECT Programming Language**<br>
-**⭐ Pond of Fame**<br>
+**🐦 Perfect Programming Language**<br>
+**⭐ Pond of Fame** ❌<br>
 **🚀 Tourism 3D**<br>
 **🐌 Fastest Sand in the World**<br>
 **🔵 All The Shapes**<br>
@@ -48,6 +47,7 @@
 **💥 AI Apocalypse**<br>
 **🐟 Fish in Fish in Fish**<br>
 **🌈 NEW Fractal**<br>
+**🧊 Transition**<br>
 
 ## Storylines
 **🐸 Missing Tode Trilogy** 🏆<br>
@@ -98,7 +98,8 @@
 
 ## Songs
 📺 **Screens in Screens** 🏆<br>
-☁️ **Undefined (instrumental)** ✅
+☁️ **Undefined** ✅<br>
+🎵 **Pointing** *️⃣<br>
 
 ## Assets
 ✏️ **TodeSans** - font<br>
@@ -117,11 +118,14 @@
 📜 **Ribbit Report** ❌<br>
 ☁️ **Definitions That Don't Matter** *️⃣<br>
 🚀 **The Spatial Programming Pipedream**<br>
-🎵 **Creating Creativity**<br>
+🎵 **Creating Creativity the Hard Way**<br>
 🌀 **It's Time**<br>
 
 ## Talks
 🚀 **The Spatial Programming Pipedream** - Future of Coding 🏆<br>
 🚀 **The Spatial Programming Pipedream** - LDN Creative Coding ✅<br>
 🚀 **The Spatial Programming Pipedream** - Strange Loop *️⃣<br>
-🎵 **Creating Creativity** - Strange Loop *️⃣<br>
+🎵 **Creating Creativity the Hard Way** - Strange Loop *️⃣<br>
+🐦 **Perfect Programming Language**<br>
+☁️ **Definitions That Don't Matter (and Some That Do)**<br>
+❤ **How do you feel?**<br>
