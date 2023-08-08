@@ -86,6 +86,10 @@
 ⚡ **HyperTode** - jsx-like language<br>
 👑 **MotherTode 2.0** - language language *️⃣<br>
 
+🐉 **Dragon** - ColourTode target 🏆<br>
+🔌 **Nogan** - Arroost target *️⃣<br>
+
+
 ## Tools
 🪐 **Pondiverse** 💤<br>
 💧 **Lilypad** - text editor<br>
