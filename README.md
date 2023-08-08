@@ -4,6 +4,7 @@
 ✅ **= DONE (this year)**<br>
 *️⃣ **= CURRENTLY MAKING THIS**<br>
 🔄 **= CURRENTLY MAKING THIS (ongoing)**<br>
+💤 **=PAUSED**<br>
 ❌ **= CANCELLED**<br>
 
 ## Videos
@@ -34,25 +35,24 @@
 **🐿️ Tode**<br>
 **⚡ Pondbreaker**<br>
 **⏰ Update Update**<br>
-**🐦 Perfect Programming Language**<br>
-**⭐ Pond of Fame** ❌<br>
 **🚀 Tourism 3D**<br>
 **🐌 Fastest Sand in the World**<br>
-**🔵 All The Shapes**<br>
-**🐢 Only Three Ways**<br>
+**🐢 There are only 3 ways to speed up code**<br>
+**🔵 All Shapes**<br>
 **🐍 Snakes in Snakes in Snakes**<br>
 **⚔️ The Dragon Book**<br>
-**⚒️ Tools**<br>
 **👁️ Todes in Todes in Todes**<br>
 **💥 AI Apocalypse**<br>
 **🐟 Fish in Fish in Fish**<br>
 **🌈 NEW Fractal**<br>
-**🧊 Transition**<br>
+**❗ DreamBerd: The Movie**<br>
+**🪣 Fractal Bucket**<br>
+**♥️ Berd, Hero of the Universe**<br>
 
 ## Storylines
 **🐸 Missing Tode Trilogy** 🏆<br>
 **💤 Sleeping Tode Trilogy** *️⃣<br>
-**🤖 Missing Bot Trilogy**<br>
+**🌳 Burning Tree Trilogy**<br>
 
 ## Engines
 🌐 **SandPond** - 3D cellular automata 🏆<br>
@@ -63,17 +63,17 @@
 🔲 **SandLab** - edge cellular automata ✅<br>
 🐟 **FishLab** - intelligent life engine ✅<br>
 🔎 **LabLab** - fractal engine ✅<br>
-🔄 **ArrowRoost** - arrow cellular automata *️⃣<br>
-💨 **ThingPond** - physics engine *️⃣<br>
+🎵 **Arroost** - arrow cellular automata *️⃣<br>
+💨 **ThingPond** - physics engine 💤<br>
 💬 **WordPond** - ancient tode language toy<br>
-🐸 **TodePond** - homepage<br>
+🐸 **TodePond** - homepage ✅💤<br>
 
 ## Libraries
 🌱 **Habitat** - helpful functions ✅🔄<br>
-🐦 **Airspace** - unhelpful functions<br>
+🐦 **Airspace** - unhelpful functions ✅<br>
 🦖 **Frogasaurus** - javascript bundler 🏆<br>
 🦕 **Diplodocroak** - html bundler<br>
-🍃 **PondPad** - project template ✅*️⃣<br>
+🍃 **PondPad** - project template ✅💤<br>
 
 ## Languages
 💫 **SpaceTode** - spatial language 🏆<br>
@@ -87,7 +87,7 @@
 👑 **MotherTode 2.0** - language language *️⃣<br>
 
 ## Tools
-🪐 **Pondiverse** *️⃣<br>
+🪐 **Pondiverse** 💤<br>
 💧 **Lilypad** - text editor<br>
 ⛲ **BerdZone**<br>
 
@@ -99,7 +99,7 @@
 ## Songs
 📺 **Screens in Screens** 🏆<br>
 ☁️ **Undefined** ✅<br>
-🎵 **Pointing** *️⃣<br>
+🎵 **Arrow in an Arrow** *️⃣<br>
 
 ## Assets
 ✏️ **TodeSans** - font<br>
@@ -108,24 +108,24 @@
 ## Series
 ⏳ **SandPond Saga** - monthly\* video 🔄<br>
 🗞️ **TodePond Times** - weekly update 🔄<br>
-📜 **Ribbit Report** - video retro *️⃣<br>
-📢 **Pondcast**<br>
+📜 **Ribbit Report** - video retro 💤<br>
+📢 **Pondcast** ✅<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
 
 ## Posts
 📜 **Ribbit Report** ❌<br>
-☁️ **Definitions That Don't Matter** *️⃣<br>
+☁️ **Definitions That Don't Matter (and some that do)** *️⃣<br>
 🚀 **The Spatial Programming Pipedream**<br>
-🎵 **Creating Creativity the Hard Way**<br>
+🎵 **The Long Way**<br>
 🌀 **It's Time**<br>
 
 ## Talks
 🚀 **The Spatial Programming Pipedream** - Future of Coding 🏆<br>
 🚀 **The Spatial Programming Pipedream** - LDN Creative Coding ✅<br>
-🚀 **The Spatial Programming Pipedream** - Strange Loop *️⃣<br>
-🎵 **Creating Creativity the Hard Way** - Strange Loop *️⃣<br>
-🐦 **Perfect Programming Language**<br>
-☁️ **Definitions That Don't Matter (and Some That Do)**<br>
-❤ **How do you feel?**<br>
+🚀 **Spatial Programming with No Escape** *️⃣<br>
+🎵 **The Long Way** - Strange Loop ❌<br>
+🐦 **Perfect Programming Language** - Strange Loop ❌<br>
+🐦 **Perfect Programming Language** - Future of Coding ✅<br>
+☁️ **Definitions That Don't Matter (and some that do)**<br>
