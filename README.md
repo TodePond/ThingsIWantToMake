@@ -4,7 +4,7 @@
 ✅ **= DONE (this year)**<br>
 *️⃣ **= CURRENTLY MAKING THIS**<br>
 🔄 **= CURRENTLY MAKING THIS (ongoing)**<br>
-💤 **=PAUSED**<br>
+💤 **= PAUSED**<br>
 ❌ **= CANCELLED**<br>
 
 ## Videos
