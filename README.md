@@ -92,7 +92,7 @@
 🐦 **Dreamberd** - perfect language 🏆<br>
 🌈 **Colourtode** - spatial language 🏆<br>
 🐉 **Dragon** - ColourTode target 🏆<br>
-🔌 **Nogan** - Arroost target ✅<br>
+🔌 **Nogan** - Arroost target 🏆<br>
 
 🐸 **Jumpyscript** - scripting language<br>
 ⚡ **Hypertadi** - document language<br>
@@ -116,7 +116,7 @@
 ⏳ **Sandpond Saga** - hourly video 🔄<br>
 📜 **Ribbit Report** - video retro 🔄<br>
 📢 **Todepond Pondcast** - weekly update 🔄<br>
-💬 **Wikiblogarden** - daily blog🔄<br>
+💬 **Wikiblogarden** - daily blog 🔄<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
