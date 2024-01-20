@@ -110,9 +110,10 @@
 🚨 **Animal Agents** - qwoplike platformer<br>
 
 ## Songs
-📺 **Screens in Screens** 🏆<br>
+📺 **Screens in screens** 🏆<br>
 ☁️ **Undefined** 🏆<br>
-🎵 **Arrow in an Arrow** 🏆<br>
+🎵 **Arrow in an arrow** 🏆<br>
+🐸 **Tode is still asleep**<br>
 
 ## Series
 🗞️ **Todepond Times** - weekly update 🏆<br>
