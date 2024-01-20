@@ -8,17 +8,17 @@
 ❌ **= CANCELLED**<br>
 
 ## Videos
-**🏅 Top 9 ways to make Sand** 🏆<br>
+**🏅 Top 9 Ways To Make Sand** 🏆<br>
 **🐰 Rabbits** 🏆<br>
 **🏺 Hieroglyphics** 🏆<br>
 **👄 Language Language** 🏆<br>
 **🍎 Top 9 ways to make Gravity** 🏆<br>
 **🧳 Tourism** 🏆<br>
 **🐸 Alphabet** 🏆<br>
-**💧 Top 9 ways to make Water** 🏆<br>
+**💧 Top 9 Ways To Make Water** 🏆<br>
 **🚨 Crime** 🏆<br>
-**🦕 Top 9 ways to make Big Sand** 🏆<br>
-**🌀 Top 9 ways to make Time Travel** 🏆<br>
+**🦕 Top 9 Ways To Make Big Sand** 🏆<br>
+**🌀 Top 9 Ways To Make Time Travel** 🏆<br>
 **🦠 Cells in Cells in Cells** 🏆<br>
 **⛰️ SandPond Saga** 🏆<br>
 **🚩 Tourism 2: Off-Road** 🏆<br>
@@ -28,23 +28,23 @@
 **⚡ Spellular Automata** 🏆<br>
 **☁️ Define Define** 🏆<br>
 **🎵 Arrows in Arrows in Arrows** 🏆<br>
-**🏆 Top 99 ways to make Sand** *️⃣<br>
+**🏆 Top 99 Ways To Make Sand** *️⃣<br>
 
+**🌈 NEW Fractal**<br>
+**🐿️ This is a Tode**<br>
+**🐍 Snakes in Snakes in Snakes**<br>
 **💡 Free Will**<br>
 **🌈 NEW NEW Cellular Automata**<br>
-**🐿️ Tode**<br>
 **⚡ Pondbreaker**<br>
 **⏰ Update Update**<br>
 **🚀 Tourism 3D**<br>
 **🐌 Fastest Sand in the World**<br>
 **🐢 There are only 3 ways to speed up code**<br>
 **🔵 All Shapes**<br>
-**🐍 Snakes in Snakes in Snakes**<br>
 **⚔️ The Dragon Book**<br>
 **👁️ Todes in Todes in Todes**<br>
 **💥 AI Apocalypse**<br>
 **🐟 Fish in Fish in Fish**<br>
-**🌈 NEW Fractal**<br>
 **❗ DreamBerd: The Movie**<br>
 **🪣 Fractal Bucket**<br>
 **♥️ Berd, Hero of the Universe**<br>
@@ -54,9 +54,9 @@
 **⏱️ Scrub**<br>
 
 ## Storylines
-**🐸 Missing Tode Trilogy** 🏆<br>
-**💤 Sleeping Tode Trilogy** *️⃣<br>
-**🌳 Burning Tree Trilogy**<br>
+**🐸 Missing tode trilogy** 🏆<br>
+**💤 Sleeping tode trilogy** *️⃣<br>
+**🌳 Burning tree trilogy**<br>
 
 ## Products and demos
 🌐 **Sandpond** - 3D cellular automata 🏆<br>
