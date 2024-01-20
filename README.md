@@ -58,7 +58,7 @@
 **💤 Sleeping Tode Trilogy** *️⃣<br>
 **🌳 Burning Tree Trilogy**<br>
 
-## Product demos
+## Products and demos
 🌐 **Sandpond** - 3D cellular automata 🏆<br>
 🟦 **Cellpond** - 2D cellular automata 🏆<br>
 🌀 **Timepond** - time-travel engine 🏆<br>
