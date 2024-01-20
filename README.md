@@ -63,7 +63,7 @@
 🌐 **Sandpond** - 3D cellular automata 🏆<br>
 🟦 **Cellpond** - 2D cellular automata 🏆<br>
 🌀 **Timepond** - time-travel engine 🏆<br>
-🛩️ **Mappond** - vector arranger 🏆<br>
+🛩️ **Mappond** - image arranger 🏆<br>
 ⭐ **Starpond** - starfield effect 🏆<br>
 🖥️ **Screenpond** - infinity mirror engine 🏆<br>
 🎨 **Paintpond** - wobbly whiteboard 🏆<br>
