@@ -62,6 +62,8 @@
 🌐 **Sandpond** - 3D cellular automata 🏆<br>
 🟦 **Cellpond** - 2D cellular automata 🏆<br>
 🌀 **Timepond** - time-travel engine 🏆<br>
+🛩️ **Mappond** - vector arranger 🏆<br>
+⭐ **Starpond** - starfield effect 🏆<br>
 🖥️ **Screenpond** - infinity mirror engine 🏆<br>
 🎨 **Paintpond** - wobbly whiteboard 🏆<br>
 🔲 **Sandlab** - edge cellular automata 🏆<br>
@@ -70,7 +72,7 @@
 🎵 **Arroost** - arrow cellular automata 🏆<br>
 
 🐸 **Todepond dot com** - homepage 🏆<br>
-🕶️ **Pond of fame** - homepage 🏆<br>
+🕶️ **Pond of fame** - patron dashboard 🏆<br>
 🐦 **Berdzone** - microblog client<br>
 💧 **Lilypad** - text editor<br>
 💬 **Wara** - ancient language toy<br>
