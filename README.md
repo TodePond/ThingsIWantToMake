@@ -1,4 +1,4 @@
-# Things I Want To Make (2023 edition)
+# Things I Want To Make (2024 edition)
 
 🏆 **= DONE (previous years)**<br>
 ✅ **= DONE (this year)**<br>
@@ -26,8 +26,8 @@
 **✨ NEW Cellular Automata** 🏆<br>
 **📺 Screens in Screens in Screens** 🏆<br>
 **⚡ Spellular Automata** 🏆<br>
-**☁️ Define Define** ✅<br>
-**🎵 Arrows in Arrows in Arrows** ✅<br>
+**☁️ Define Define** 🏆<br>
+**🎵 Arrows in Arrows in Arrows** 🏆<br>
 **🏆 Top 99 ways to make Sand** *️⃣<br>
 
 **💡 Free Will**<br>
@@ -58,82 +58,74 @@
 **💤 Sleeping Tode Trilogy** *️⃣<br>
 **🌳 Burning Tree Trilogy**<br>
 
-## Engines
-🌐 **SandPond** - 3D cellular automata 🏆<br>
-🟦 **CellPond** - 2D cellular automata 🏆<br>
-🌀 **TimePond** - time-travel engine 🏆<br>
-🖥️ **ScreenPond** - infinity mirror engine 🏆<br>
-🎨 **PaintPond** - wobbly whiteboard 🏆<br>
-🔲 **SandLab** - edge cellular automata ✅<br>
-🐟 **FishLab** - intelligent life engine ✅<br>
-🔎 **LabLab** - fractal engine ✅<br>
-🎵 **Arroost** - arrow cellular automata *️✅<br>
-💨 **ThingPond** - physics engine 💤<br>
-💬 **WordPond** - ancient tode language toy<br>
-🐸 **TodePond** - homepage ✅✅<br>
+## Product demos
+🌐 **Sandpond** - 3D cellular automata 🏆<br>
+🟦 **Cellpond** - 2D cellular automata 🏆<br>
+🌀 **Timepond** - time-travel engine 🏆<br>
+🖥️ **Screenpond** - infinity mirror engine 🏆<br>
+🎨 **Paintpond** - wobbly whiteboard 🏆<br>
+🔲 **Sandlab** - edge cellular automata 🏆<br>
+🐟 **Fishlab** - intelligent life engine 🏆<br>
+🔎 **Lablab** - fractal engine 🏆<br>
+🎵 **Arroost** - arrow cellular automata 🏆<br>
+
+🐸 **Todepond dot com** - homepage 🏆<br>
+🕶️ **Pond of fame** - homepage 🏆<br>
+🐦 **Berdzone** - microblog client<br>
+💧 **Lilypad** - text editor<br>
+💬 **Wara** - ancient language toy<br>
+🪣 **Fractal bucket** - fractal painting tool<br>
+👁️ **Seet** - revealing the line<br>
+📷 **Photo** - before and after coding<br>
+🔒 **Abc** - alphabet metaprogramming<br>
 
 ## Libraries
-🌱 **Habitat** - helpful functions ✅✅<br>
-🐦 **Airspace** - unhelpful functions ✅<br>
+🌱 **Habitat** - helpful functions 🏆<br>
+🐦 **Airspace** - unhelpful functions 🏆<br>
 🦖 **Frogasaurus** - javascript bundler 🏆<br>
-🦕 **Diplodocroak** - html bundler<br>
-🍃 **PondPad** - project template ✅✅<br>
 
 ## Languages
-💫 **SpaceTode** - spatial language 🏆<br>
-👑 **MotherTode** - language language 🏆<br>
-🐸 **TodeTode** - real language 🏆<br>
-🪵 **TreeTode** - lisp-like language 🏆<br>
-🐦 **DreamBerd** - perfect language 🏆<br>
-🌈 **ColourTode** - spatial language<br>
-⛅ **DreamTode** - low-level language<br>
-⚡ **HyperTode** - jsx-like language<br>
-👑 **MotherTode 2.0** - language language *️⃣<br>
-
+💫 **Spacetode** - spatial language 🏆<br>
+👑 **Mothertode** - language language 🏆<br>
+🐸 **Todetode** - real language 🏆<br>
+🪵 **Treetode** - lispy language 🏆<br>
+🐦 **Dreamberd** - perfect language 🏆<br>
+🌈 **Colourtode** - spatial language 🏆<br>
 🐉 **Dragon** - ColourTode target 🏆<br>
 🔌 **Nogan** - Arroost target ✅<br>
 
+🐸 **Jumpyscript** - scripting language<br>
+⚡ **Hypertadi** - document language<br>
+🖌️ **Coolspawn** - styling language<br>
 
-## Tools
-🪐 **Pondiverse** 💤<br>
-💧 **Lilypad** - text editor<br>
-⛲ **BerdZone**<br>
+## Movements
+🪦 **Tadi web** - slippy mindset<br>
 
 ## Games
-🐦 **BerdLab** - berd-catching game ✅<br>
+🐦 **BerdLab** - berd-catching game 🏆<br>
 🤖 **Pondbreaker** - roguelike breakout<br>
 🚨 **Animal Agents** - qwoplike platformer<br>
 
 ## Songs
 📺 **Screens in Screens** 🏆<br>
-☁️ **Undefined** ✅<br>
-🎵 **Arrow in an Arrow** *️⃣<br>
-
-## Assets
-✏️ **TodeSans** - font<br>
-✏️ **TodeMono** - font
+☁️ **Undefined** 🏆<br>
+🎵 **Arrow in an Arrow** 🏆<br>
 
 ## Series
-⏳ **SandPond Saga** - monthly\* video 🔄<br>
-🗞️ **TodePond Times** - weekly update 🔄<br>
-📜 **Ribbit Report** - video retro 💤<br>
-📢 **Pondcast** ✅<br>
+🗞️ **Todepond Times** - weekly update 🏆<br>
+⏳ **Sandpond Saga** - hourly video 🔄<br>
+📜 **Ribbit Report** - video retro 🔄<br>
+📢 **Todepond Pondcast** - weekly update 🔄<br>
+💬 **Wikiblogarden** - daily blog🔄<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
 
-## Posts
-📜 **Ribbit Report** ❌<br>
-☁️ **Definitions That Don't Matter (and some that do)** *️⃣<br>
-🚀 **The Spatial Programming Pipedream**<br>
-🎵 **The Long Way**<br>
-🌀 **It's Time**<br>
-
 ## Talks
-🚀 **The Spatial Programming Pipedream** - Future of Coding 🏆<br>
-🚀 **The Spatial Programming Pipedream** - LDN Creative Coding ✅<br>
-🚀 **Spatial Programming with No Escape** - SPLASH ✅<br>
-🎵 **The Long Way** - Strange Loop ❌<br>
-🎵 **Normalise Sharing Scrappy Fiddles** - Future of Coding ✅<br>
-🐦 **Perfect Programming Language** - Strange Loop ❌<br>
-🐦 **Perfect Programming Language** - Future of Coding ✅<br>
+🚀 **CELLPOND: Spatial programming pipedream** - Future of Coding 🏆<br>
+🚀 **CELLPOND: Spatial programming pipedream** - LDN Creative Coding 🏆<br>
+🚀 **CELLPOND: Spatial programming without escape** - SPLASH 🏆<br>
+🎵 **ARROOST: Normalise sharing scrappy fiddles** - Future of Coding 🏆<br>
+🐦 **DREAMBERD: Perfect programming language** - Future of Coding 🏆<br>
+
+🎵 **ARROOST: Creating creativity by staying scrappy**<br>
