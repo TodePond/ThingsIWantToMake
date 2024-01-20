@@ -27,7 +27,7 @@
 **📺 Screens in Screens in Screens** 🏆<br>
 **⚡ Spellular Automata** 🏆<br>
 **☁️ Define Define** ✅<br>
-**🎵 Arrows in Arrows in Arrows** *️✅<br>
+**🎵 Arrows in Arrows in Arrows** ✅<br>
 **🏆 Top 99 ways to make Sand** *️⃣<br>
 
 **💡 Free Will**<br>
