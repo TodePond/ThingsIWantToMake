@@ -55,9 +55,9 @@
 **⏱️ Scrub**<br>
 
 ## Storylines
-**🐸 Missing tode trilogy** 🏆<br>
-**💤 Sleeping tode trilogy** *️⃣<br>
-**🌳 Burning tree trilogy**<br>
+**🐸 Missing Tode Trilogy** 🏆<br>
+**💤 Sleeping Tode Trilogy** *️⃣<br>
+**🌳 Burning Tree Trilogy**<br>
 
 ## Products and demos
 🌐 **Sandpond** - 3D cellular automata 🏆<br>
