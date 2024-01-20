@@ -12,7 +12,7 @@
 **🐰 Rabbits** 🏆<br>
 **🏺 Hieroglyphics** 🏆<br>
 **👄 Language Language** 🏆<br>
-**🍎 Top 9 ways to make Gravity** 🏆<br>
+**🍎 Top 9 Ways to Make Gravity** 🏆<br>
 **🧳 Tourism** 🏆<br>
 **🐸 Alphabet** 🏆<br>
 **💧 Top 9 Ways To Make Water** 🏆<br>
