@@ -27,7 +27,7 @@
 **📺 Screens in Screens in Screens** 🏆<br>
 **⚡ Spellular Automata** 🏆<br>
 **☁️ Define Define** ✅<br>
-**🎵 Arrows in Arrows in Arrows** *️⃣<br>
+**🎵 Arrows in Arrows in Arrows** *️✅<br>
 **🏆 Top 99 ways to make Sand** *️⃣<br>
 
 **💡 Free Will**<br>
@@ -48,6 +48,10 @@
 **❗ DreamBerd: The Movie**<br>
 **🪣 Fractal Bucket**<br>
 **♥️ Berd, Hero of the Universe**<br>
+**👀 See it**<br>
+**🔒 ABCDEFGHIJKLMNOPQRSTUVWXYZ**<br>
+**📷 Before and After**<br>
+**⏱️ Scrub**<br>
 
 ## Storylines
 **🐸 Missing Tode Trilogy** 🏆<br>
@@ -63,17 +67,17 @@
 🔲 **SandLab** - edge cellular automata ✅<br>
 🐟 **FishLab** - intelligent life engine ✅<br>
 🔎 **LabLab** - fractal engine ✅<br>
-🎵 **Arroost** - arrow cellular automata *️⃣<br>
+🎵 **Arroost** - arrow cellular automata *️✅<br>
 💨 **ThingPond** - physics engine 💤<br>
 💬 **WordPond** - ancient tode language toy<br>
-🐸 **TodePond** - homepage ✅💤<br>
+🐸 **TodePond** - homepage ✅✅<br>
 
 ## Libraries
-🌱 **Habitat** - helpful functions ✅🔄<br>
+🌱 **Habitat** - helpful functions ✅✅<br>
 🐦 **Airspace** - unhelpful functions ✅<br>
 🦖 **Frogasaurus** - javascript bundler 🏆<br>
 🦕 **Diplodocroak** - html bundler<br>
-🍃 **PondPad** - project template ✅💤<br>
+🍃 **PondPad** - project template ✅✅<br>
 
 ## Languages
 💫 **SpaceTode** - spatial language 🏆<br>
@@ -87,7 +91,7 @@
 👑 **MotherTode 2.0** - language language *️⃣<br>
 
 🐉 **Dragon** - ColourTode target 🏆<br>
-🔌 **Nogan** - Arroost target *️⃣<br>
+🔌 **Nogan** - Arroost target ✅<br>
 
 
 ## Tools
@@ -128,8 +132,8 @@
 ## Talks
 🚀 **The Spatial Programming Pipedream** - Future of Coding 🏆<br>
 🚀 **The Spatial Programming Pipedream** - LDN Creative Coding ✅<br>
-🚀 **Spatial Programming with No Escape** *️⃣<br>
+🚀 **Spatial Programming with No Escape** - SPLASH ✅<br>
 🎵 **The Long Way** - Strange Loop ❌<br>
+🎵 **Normalise Sharing Scrappy Fiddles** - Future of Coding ✅<br>
 🐦 **Perfect Programming Language** - Strange Loop ❌<br>
 🐦 **Perfect Programming Language** - Future of Coding ✅<br>
-☁️ **Definitions That Don't Matter (and some that do)**<br>
