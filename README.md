@@ -32,7 +32,7 @@
 
 **🌈 NEW Fractal**<br>
 **🐿️ This is a Tode**<br>
-**🐍 Snakes in Snakes in Snakes**<br>
+**🐍 Snakes in Snakes in Snakes** *️⃣<br>
 
 **💡 Free Will**<br>
 **🌈 NEW NEW Cellular Automata**<br>
@@ -46,10 +46,10 @@
 **👁️ Todes in Todes in Todes**<br>
 **💥 AI Apocalypse**<br>
 **🐟 Fish in Fish in Fish**<br>
-**❗ DreamBerd: The Movie**<br>
-**🪣 Fractal Bucket**<br>
+**❗ DreamBerd: The Movie** *️⃣<br>
+**🪣 Fractal Bucket** 💤<br>
 **♥️ Berd, Hero of the Universe**<br>
-**👀 See it**<br>
+**👀 See it** *️⃣<br>
 **🔒 ABCDEFGHIJKLMNOPQRSTUVWXYZ**<br>
 **📷 Before and After**<br>
 **⏱️ Scrub**<br>
@@ -78,8 +78,8 @@
 🐦 **Berdzone** - microblog client<br>
 💧 **Lilypad** - text editor<br>
 💬 **Wara** - ancient language toy<br>
-🪣 **Fractal bucket** - fractal painting tool<br>
-👁️ **Seet** - revealing the line<br>
+🪣 **Fractal bucket** - fractal painting tool 💤<br>
+👁️ **Seet** - revealing the line *️⃣<br>
 📷 **Photo** - before and after coding<br>
 🔒 **Abc** - alphabet metaprogramming<br>
 
@@ -98,12 +98,12 @@
 🐉 **Dragon** - ColourTode target 🏆<br>
 🔌 **Nogan** - Arroost target 🏆<br>
 
-🐸 **Jumpyscript** - scripting language<br>
-⚡ **Hypertadi** - document language<br>
+🐸 **Jumpyscript** - scripting language *️⃣<br>
+⚡ **Hypertadi** - document language *️⃣<br>
 🖌️ **Coolspawn** - styling language<br>
 
 ## Movements
-🪦 **Tadi web** - slippy mindset<br>
+🪦 **Tadi web** - slippy mindset *️⃣<br>
 
 ## Games
 🐦 **BerdLab** - berd-catching game 🏆<br>
@@ -114,17 +114,29 @@
 📺 **Screens in screens** 🏆<br>
 ☁️ **Undefined** 🏆<br>
 🎵 **Arrow in an arrow** 🏆<br>
-🐸 **Tode is still asleep**<br>
+🐸 **Tode is still asleep** *️⃣<br>
+🐍 **Don't forget to [spoiler]** *️⃣<br>
 
 ## Series
 🗞️ **Todepond Times** - weekly update 🏆<br>
 ⏳ **Sandpond Saga** - hourly video 🔄<br>
-📜 **Ribbit Report** - video retro 🔄<br>
+📜 **Ribbit Report** - video retro ❌<br>
 📢 **Todepond Pondcast** - weekly update 🔄<br>
 💬 **Wikiblogarden** - daily blog 🔄<br>
+🍃 **Torn Leaf** - gallery *️⃣<br>
+🧾 **Untitled publication** - publication<br>
 
 ## Communities
 🌱 **Lilypad** - discord server 🔄<br>
+
+## Publications
+👄 **NATURAL CODE: Dialogues** *️⃣<br>
+👁️ **SEET: Can you see the line** *️⃣<br>
+🎵 **ARROOST: Unblocking creativity** *️⃣<br>
+
+## Exhibitions
+🍃 **Torn Leaf Zero** *️⃣<br>
+❄️ **Torn Leaf Winter**<br>
 
 ## Talks
 🚀 **CELLPOND: Spatial programming pipedream** - Future of Coding 🏆<br>
@@ -133,7 +145,10 @@
 ❗ **DREAMBERD: Perfect programming language** - Future of Coding 🏆<br>
 🎵 **ARROOST: Normalise sharing scrappy fiddles** - Future of Coding 🏆<br>
 
-🎵 **ARROOST: Creating creativity by staying scrappy**<br>
+🎵 **ARROOST: Unblocking creation** *️⃣<br>
+🔎 **TADI WEB: Miniature lab** *️⃣<br>
+📺 **SCREENPOND: Swallowing myself** - QueerJS *️⃣<br>
+👄 **NATURAL CODE: Dialogues** *️⃣<br>
 
 ![image](https://github.com/TodePond/ThingsIWantToMake/assets/15892272/27f32d72-5dd1-4b56-bc14-7569330e4606)
 
